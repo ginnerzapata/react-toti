@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+main {
+    display: flex;
+}
+
+main .meu-conteudo {
+    padding: 16px;
+    flex: 2;
+    background-color:bisque;
+}
+
+main .conteudo-react {
+    padding: 16px;
+    flex: 1;
+    background-color: aqua;
+}
