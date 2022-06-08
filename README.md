@@ -1,5 +1,36 @@
 # React - Toti
 
+## Usar React CDN
+
+No header adicionar os enlaces do [React CDN](https://es.reactjs.org/docs/cdn-links.html)
+
+```
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+```
+
+e do [Babel](https://babeljs.io/setup#installation)
+
+```
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+```
+
+Criar um `<script type="text/babel">` no final do `body` e dentro ja podem escreber React
+
+```
+ <script type="text/babel">
+      const MeuComponente = () => {
+        return (
+          <div>
+            <h1>Hola mundo</h1>
+          </div>
+        );
+      };
+      const root = ReactDOM.createRoot(document.querySelector("#root"));
+      root.render(<MeuComponente />);
+    </script>
+```
+
 ## Aprende React
 
 - [React: Documentação Oficial (BR)](https://pt-br.reactjs.org/tutorial/tutorial.html)
