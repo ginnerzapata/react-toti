@@ -60,3 +60,7 @@ executar con diretorio desejado `npx create-react-app <nome-do-repositorio>`
 - [ReactJS Tutorial for Beginners - Free - 13 horas aprx.](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [Full Modern React Tutorial - Free - 3 horas aprox](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 - [React: De cero a experto ( Hooks y MERN ) - Paid - 49 horas aprox ](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
+
+## Homework semana 1
+- Opção 1: Criar um aplicativo de Curriculo [exemplo](https://ginnerzapata.github.io/cv-builder/)
+- Opção 2: Criar uma lista todo: [exemplo](https://rojaslabs.github.io/minimal-todo-list/)
