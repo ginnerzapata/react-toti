@@ -31,6 +31,10 @@ Criar um `<script type="text/babel">` no final do `body` e dentro ja podem escre
     </script>
 ```
 
+## Usar React npx
+
+executar con diretorio desejado `npx create-react-app <nome-do-repositorio>`
+
 ## Aprende React
 
 - [React: Documentação Oficial (BR)](https://pt-br.reactjs.org/tutorial/tutorial.html)
