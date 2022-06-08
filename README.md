@@ -8,6 +8,8 @@
 
 ### Cursos em video
 
-- [Curso de React Para Completos Iniciantes - De graça (POR) 2 horas aprx.](https://youtu.be/ErjWNvP6mko)
-- [Curso de React - De graça (POR) 10 horas aprox](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
-- [Curso de React - Pago (POR) 54 horas aprox - Melhor puntuação](https://www.udemy.com/course/react-redux-pt/)
+#### Portugues
+
+- [Curso de React Para Completos Iniciantes - De graça 2 horas aprx.](https://youtu.be/ErjWNvP6mko)
+- [Curso de React - De graça 10 horas aprox](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
+- [Curso de React - Pago 54 horas aprox - Melhor puntuação](https://www.udemy.com/course/react-redux-pt/)
