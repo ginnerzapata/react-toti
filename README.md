@@ -15,7 +15,7 @@ e do [Babel](https://babeljs.io/setup#installation)
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 ```
 
-Criar um `<script type="text/babel">` no final do `body` e dentro ja podem escreber React
+Criar um `<script type="text/babel">` no final do `body` e dentro ja podem escrever React
 
 ```
  <script type="text/babel">
