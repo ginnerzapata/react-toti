@@ -1,0 +1,102 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@300;400;700&family=Fraunces:ital,opsz,wght@0,9..144,500;1,9..144,500&display=swap');* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Commissioner', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Fraunces', serif;
+}
+
+.main {
+    min-height: 100vh;
+    background: #ecf1fb;
+}
+.main .banner {
+    background-color: #2e4ec9;
+    text-align: center;
+    color: white;
+    padding: 16px;
+}
+ .main .wrapper {
+     width: 960px;
+     margin: auto;
+     padding: 16px;
+     display: flex;
+     flex-direction: column;
+ }
+
+ .card {
+    flex: 1;
+    background-color: white;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+ }
+
+ .card img {
+     height: 80px;
+     width: auto;     
+ }
+
+ .card .card-conteudo {
+    flex: 1;
+    margin: auto 8px;
+ }
+
+ .card p.titulo {
+     font-weight: bold;
+     font-size: 20px;
+     color: #697B8C;
+     margin-bottom: 4px;
+ }
+ .card p.autor {
+    font-style: italic;
+    color: #474f57;
+ }
+
+ .card button.delete {
+     color: white;
+    background-color: #c92e57;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+ }
+ .card button.delete:hover{
+    background-color: #e66084;
+ }
+
+ .form {
+    margin-bottom: 16px;
+ }
+.form label {
+    margin-right: 8px;
+}
+.form label input{
+    margin-left: 4px;
+}
+
+.form input[type="submit"] {
+    color: white;
+    background-color: #2e4ec9;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.form input[type="submit"]:hover {
+    color: white;
+    background-color: #637bdb;
+}
+.form input[type="text"] {
+    padding: 8px;
+    border: none;
+    border: 1px solid #637bdb ;
+    border-radius: 4px;
+}
+
