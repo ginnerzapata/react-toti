@@ -6,9 +6,9 @@ import { Search } from '../components/search/Search'
 export const Main = () => {
   return (
       <>
-      <Hero />
-      <Search/>
-      <MostWatched/>
+        <Hero />
+        <Search/>
+        <MostWatched/>
       </>
   )
 }
